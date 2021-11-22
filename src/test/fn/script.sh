@@ -5,7 +5,7 @@ fn update context oracle.compartment-id ocid1.compartment.oc1..aaaaaaaapipdwb47b
 fn update context api-url https://functions.us-phoenix-1.oraclecloud.com
 
 fn update context registry phx.ocir.io/intrandallbarnes/promfnrepo
-docker login -u 'intrandallbarnes/mayur.raleraskar@oracle.com' -p 'FvfqEp0Tfk2U#w_a1W3L' phx.ocir.io
+docker login -u 'intrandallbarnes/mayur.raleraskar@oracle.com' -p 'Xyz' phx.ocir.io
 
 fn -v deploy --app get_compute_metadata --no-bump
 
